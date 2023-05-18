@@ -7,4 +7,3 @@ class Person
 
 end
 
-Gloria = Person.new ("Kitili")
